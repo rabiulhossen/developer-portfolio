@@ -8,3 +8,8 @@ h1 {
 .rabiul {
     color: lawngreen;
 }
+
+p {
+    font-weight: 900px;
+    font-family: sans-serif;
+}
