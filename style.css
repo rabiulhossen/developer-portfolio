@@ -1,7 +1,8 @@
 h1 {
-    font-size: 50pz;
+    font-size: 60px;
     font-family: sans-serif;
-    font-style: initial;
+    font-style: inherit;
+    font-weight: 900px;
 }
 
 .rabiul {
